@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/DanonymousCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />@DanonymousCoder</a>
   </p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanonymousCoder&theme=dark)](https://git.io/streak-stats)
