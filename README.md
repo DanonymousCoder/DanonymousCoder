@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanonymousCoder&" alt="developer0000000" /></p>
 
+
+
+[![An image of @dmysteriouscoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dmysteriouscoder)](https://holopin.io/@dmysteriouscoder)
+
