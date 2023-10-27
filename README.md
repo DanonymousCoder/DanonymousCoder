@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 
 
-  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanonymousCoder&show_icons=true&locale=en" alt="developer0000000" /></p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanonymousCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
