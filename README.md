@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/DanonymousCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />@DanonymousCoder</a>
   </p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanonymousCoder&show_icons=true&locale=en" alt="developer0000000" /></p>
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanonymousCoder&theme=dark)](https://git.io/streak-stats)
 
@@ -30,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanonymousCoder&show_icons=true&locale=en" alt="developer0000000" /></p>
+
 
 
 
