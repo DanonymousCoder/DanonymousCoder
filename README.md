@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanonymousCoder&show_icons=true&locale=en" alt="developer0000000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanonymousCoder&" alt="developer0000000" /></p>
+
 
 
 
