@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanonymousCoder&show_icons=true&locale=en" alt="developer0000000" /></p>
 
 
-  [![](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -42,3 +41,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanonymousCoder&theme=dark)](https://git.io/streak-stats)
 
 
+
+  [![](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
