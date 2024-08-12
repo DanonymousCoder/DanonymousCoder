@@ -1,7 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Ridwanullah+popularly+known+as+DanonymousCoder+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ridwanullah+popularly+known+as+DanonymousCoder+!;&color=0000FF" />
+
 </h1>
-Hi there 👋, My name is Ridwanullah popularly known as DanonymousCoder.
+
 - 🔭 I’m currently working on my portofolio ...
 - 🌱 I’m currently learning JavaScript ...
 - 👯 I’m looking to collaborate on Web development projects ...
@@ -42,6 +43,11 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanonymousCoder&theme=dark)](https://git.io/streak-stats)
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DanonymousCoder/DanonymousCoder/output/github-contribution-grid-snake.svg" />
+  
+</div>
 
   [![](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
