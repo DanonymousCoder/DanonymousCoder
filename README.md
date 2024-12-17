@@ -31,17 +31,7 @@ Here are some ideas to get you started:
 
 
 
- 
 
-
-
-
-
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanonymousCoder&theme=dark)](https://git.io/streak-stats)
 
 
 
