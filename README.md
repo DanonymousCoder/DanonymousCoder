@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/DanonymousCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />@DanonymousCoder</a>
   </p>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudra-Sankha-Sinhamahapatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanonymousCoder&theme=dark&border_radius=8.5)](https://git.io/streak-stats)
     
