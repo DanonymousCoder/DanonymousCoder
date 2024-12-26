@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript, Python, C++ and Rust ...
 - 👯 I’m looking to collaborate on Web development projects ... ...
 -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/DanonymousCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  </p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanonymousCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
