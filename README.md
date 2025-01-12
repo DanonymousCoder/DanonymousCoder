@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my portofolio.
 - 🌱 I’m currently exploring Software Engineering.
-- 👯 I’m looking to collaborate on Web development projects[FE].
+- 👯 I’m looking to collaborate on Web development projects.
 - ⚡ Fun fact: Who knows?
 - 💬 Ask me about Web development
 
