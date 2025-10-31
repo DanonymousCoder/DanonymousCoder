@@ -3,11 +3,4 @@
 
 </h1>
 
-
-
-
-
-
-
-
-  ![Visitors](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github.com/user-attachments/assets/3371c126-58a9-49c7-95e0-478f683e89de" style="width: 100%; height: 1000px">
